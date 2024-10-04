@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jeff-White-AZ
-- 👀 I’m interested in use of crop simulation models.
+- 👀 I’m interested in crop physiology and the use of crop simulation models.
 - 🌱 I’m currently learning openxlsx2.
 - 💞️ I’m looking to collaborate on data management tools that work with spreadsheets and use R.
 - 📫 How to reach me ...
